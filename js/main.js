@@ -9,6 +9,7 @@ $(document).ready( function() {
   });
 
   $(".animal").click( function() {
+    
     this.css('visibility', 'hidden')
   });
 
